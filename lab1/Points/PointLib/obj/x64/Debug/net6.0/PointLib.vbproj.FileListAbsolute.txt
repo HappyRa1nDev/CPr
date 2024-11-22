@@ -1,0 +1,12 @@
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\bin\x64\Debug\net6.0\PointLib.deps.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\bin\x64\Debug\net6.0\PointLib.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\bin\x64\Debug\net6.0\PointLib.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.vbproj.AssemblyReference.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.AssemblyInfoInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.AssemblyInfo.vb
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.vbproj.CoreCompileInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\refint\PointLib.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\PointLib.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\lab1\Points\PointLib\obj\x64\Debug\net6.0\ref\PointLib.dll

@@ -1,0 +1,9 @@
+﻿  CarlnProcServer.cpp
+  CoCar.cpp
+  CoCarClassFactory.cpp
+  iid.cpp
+  Generating Code...
+carinprocserver.def : warning LNK4222: exported symbol 'DllGetClassObject' should not be assigned an ordinal
+carinprocserver.def : warning LNK4222: exported symbol 'DllCanUnloadNow' should not be assigned an ordinal
+     Creating library C:\Study\ПГНИУ2\3 курс\CPr\lab2\CarInProcServer\Debug\CarInProcServer.lib and object C:\Study\ПГНИУ2\3 курс\CPr\lab2\CarInProcServer\Debug\CarInProcServer.exp
+  CarInProcServer.vcxproj -> C:\Study\ПГНИУ2\3 курс\CPr\lab2\CarInProcServer\Debug\CarInProcServer.dll

@@ -1,0 +1,36 @@
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.ColorForm.resources
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.csproj.GenerateResource.cache
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.AssemblyInfo.cs
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.exe
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.deps.json
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.runtimeconfig.json
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.dll
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\ref\CompLab3.dll
+C:\Users\sasha\source\repos\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.pdb
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.dll
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\ref\CompLab3.dll
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.pdb
+C:\Users\sasha\source\repos\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.exe
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.deps.json
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.runtimeconfig.json
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.runtimeconfig.dev.json
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.dll
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\bin\Debug\net5.0-windows\CompLab3.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.csproj.AssemblyReference.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.ColorForm.resources
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.csproj.GenerateResource.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.AssemblyInfoInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.AssemblyInfo.cs
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.csproj.CoreCompileInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.dll
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\refint\CompLab3.dll
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\CompLab3.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3\CompLab3\obj\Debug\net5.0-windows\ref\CompLab3.dll

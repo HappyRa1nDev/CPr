@@ -1,0 +1,40 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EcoCore/7.0.0.15008": {
+        "runtime": {
+          "lib/net40/Eco.Handles.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.0.0.15008"
+          },
+          "lib/net40/Eco.Interfaces.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.0.0.15008"
+          },
+          "lib/net40/Eco.LinqExtender.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.0.0.15008"
+          },
+          "lib/net40/MDriven.Net.Http.dll": {
+            "assemblyVersion": "7.1.0.0",
+            "fileVersion": "7.0.0.15008"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EcoCore/7.0.0.15008": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kjaEYNhhhD4yoP3DnmzuuRFOJ+Gs+V9/3RfmMQ6zYvsl2N71MChuz8Bb1ABJ2jWUHsU6o5SGTkBQK72vXjcrHw==",
+      "path": "ecocore/7.0.0.15008",
+      "hashPath": "ecocore.7.0.0.15008.nupkg.sha512"
+    }
+  }
+}

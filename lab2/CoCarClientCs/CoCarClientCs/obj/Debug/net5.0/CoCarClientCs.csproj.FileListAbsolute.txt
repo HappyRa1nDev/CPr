@@ -1,0 +1,32 @@
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.exe
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.deps.json
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.runtimeconfig.json
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.dll
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\ref\CoCarClientCs.dll
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.pdb
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.AssemblyInfo.cs
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.dll
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\ref\CoCarClientCs.dll
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.pdb
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.exe
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.deps.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.runtimeconfig.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.runtimeconfig.dev.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\bin\Debug\net5.0\CoCarClientCs.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.csproj.AssemblyReference.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.AssemblyInfoInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.AssemblyInfo.cs
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.csproj.CoreCompileInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\refint\CoCarClientCs.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\CoCarClientCs.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab2\CoCarClientCs\CoCarClientCs\obj\Debug\net5.0\ref\CoCarClientCs.dll

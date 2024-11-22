@@ -1,0 +1,66 @@
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.exe
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.deps.json
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.runtimeconfig.json
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.dll
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\ref\CompLab3Clock.dll
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.pdb
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.csproj.AssemblyReference.cache
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock_MarkupCompile.cache
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock_MarkupCompile.lref
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.g.resources
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.AssemblyInfo.cs
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.dll
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\ref\CompLab3Clock.dll
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.pdb
+C:\Users\sasha\source\repos\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.exe
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.deps.json
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.runtimeconfig.json
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.runtimeconfig.dev.json
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.csproj.AssemblyReference.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\App.g.cs
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock_MarkupCompile.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock_MarkupCompile.lref
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.g.resources
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.AssemblyInfoInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.AssemblyInfo.cs
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.csproj.CoreCompileInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\refint\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\Новая папка\3 лаба\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\ref\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.exe
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.deps.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.runtimeconfig.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.runtimeconfig.dev.json
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\bin\Debug\net5.0-windows\CompLab3Clock.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.csproj.AssemblyReference.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\App.g.cs
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock_MarkupCompile.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock_MarkupCompile.lref
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.g.resources
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.AssemblyInfoInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.AssemblyInfo.cs
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.csproj.CoreCompileInputs.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\refint\CompLab3Clock.dll
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.pdb
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\CompLab3Clock.genruntimeconfig.cache
+C:\Study\ПГНИУ2\3 курс\CPr\lab3\CompLab3Clock\CompLab3Clock\obj\Debug\net5.0-windows\ref\CompLab3Clock.dll

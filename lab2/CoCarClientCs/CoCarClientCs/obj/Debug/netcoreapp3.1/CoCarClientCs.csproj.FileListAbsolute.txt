@@ -1,0 +1,13 @@
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.AssemblyInfoInputs.cache
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.AssemblyInfo.cs
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.csproj.CoreCompileInputs.cache
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\netcoreapp3.1\CoCarClientCs.exe
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\netcoreapp3.1\CoCarClientCs.deps.json
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\netcoreapp3.1\CoCarClientCs.runtimeconfig.json
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\netcoreapp3.1\CoCarClientCs.runtimeconfig.dev.json
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\netcoreapp3.1\CoCarClientCs.dll
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\bin\Debug\netcoreapp3.1\CoCarClientCs.pdb
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.dll
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.pdb
+C:\Users\sasha\source\repos\CoCarClientCs\CoCarClientCs\obj\Debug\netcoreapp3.1\CoCarClientCs.genruntimeconfig.cache

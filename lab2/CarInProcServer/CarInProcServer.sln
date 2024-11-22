@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarInProcServer", "CarInProcServer\CarInProcServer.vcxproj", "{1E86A16B-1E35-4E7D-9D69-25989CFC7418}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Debug|x64.ActiveCfg = Debug|x64
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Debug|x64.Build.0 = Debug|x64
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Debug|x86.ActiveCfg = Debug|Win32
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Debug|x86.Build.0 = Debug|Win32
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Release|x64.ActiveCfg = Release|x64
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Release|x64.Build.0 = Release|x64
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Release|x86.ActiveCfg = Release|Win32
+		{1E86A16B-1E35-4E7D-9D69-25989CFC7418}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0563F606-50EC-4565-8171-6E74F99AF531}
+	EndGlobalSection
+EndGlobal
